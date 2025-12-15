@@ -95,6 +95,7 @@ python animation.py
 Prabhakar Rayal
 
 B.Tech Computer Science Engineering
+Graphic Era Hill University
 
 ## ⭐ Final Note
 
